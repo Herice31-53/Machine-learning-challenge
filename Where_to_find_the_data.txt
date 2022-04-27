@@ -1,0 +1,2 @@
+Dataset link: https://huggingface.co/datasets/health_fact
+You can download the .zip of the dataset directly from thins link: https://drive.google.com/uc?export=download&id=1eTtRs5cUlBP5dXsx-FTAlmXuB6JQi2qj
